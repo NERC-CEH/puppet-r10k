@@ -56,7 +56,7 @@
     },
     {
       "name": "puppetlabs/ruby",
-      "version_requirement": ">= 0.0.2"
+      "version_requirement": ">= 0.0.2 < 1.0.0"
     },
     {
       "name": "puppetlabs/gcc",
